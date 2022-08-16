@@ -1,4 +1,4 @@
 package com.example.library.main;
 
-public class LibraryMain {
+public class BookMain {
 }
